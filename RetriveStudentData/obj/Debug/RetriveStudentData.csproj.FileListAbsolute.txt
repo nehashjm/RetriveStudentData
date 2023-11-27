@@ -1,0 +1,14 @@
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.exe.config
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.exe
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.pdb
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.exe
+D:\mphasis Simplilearn\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.pdb
+D:\mphasis\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.exe.config
+D:\mphasis\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.exe
+D:\mphasis\RetriveStudentData\RetriveStudentData\bin\Debug\RetriveStudentData.pdb
+D:\mphasis\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.csproj.AssemblyReference.cache
+D:\mphasis\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.csproj.CoreCompileInputs.cache
+D:\mphasis\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.exe
+D:\mphasis\RetriveStudentData\RetriveStudentData\obj\Debug\RetriveStudentData.pdb

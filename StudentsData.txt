@@ -1,0 +1,10 @@
+﻿1	Omkar	24	Male	MCA
+2	Samar	25	Male	MCA
+3	Adtya	24	Male	MTECH
+4	Amit	24	Male	MSC
+5	Kashi	27	Male	MSC
+6	Aniket	21	Male	BCA
+7	Zara	24	Female	MBBS
+8	Akshay	23	Male	BTECH
+9	Priya	24	Female	MBBS
+10	Nipun	23	Male	MTECH
